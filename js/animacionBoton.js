@@ -1,4 +1,4 @@
-/* Función que ejecuta cuando el documento o página halla cargado*/
+/* Función que ejecuta cuando el documento o página esté cargada */
 $(document).ready(function(){
 
 	$('.go-up').click(function(){
